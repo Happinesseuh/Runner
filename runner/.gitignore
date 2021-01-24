@@ -1,0 +1,5 @@
+*.o
+*.vgcore*
+*.a
+.a.out
+.my_runner
